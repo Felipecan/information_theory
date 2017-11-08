@@ -4,7 +4,7 @@ Trabalho final da disciplina de Teoria da Informação.
 Grupo: Allison Cândido, Felipe da Cunha e Renno Diniz
 -----------------------------------------------------
 
-O trabalho consiste na implementação de um compressor-descompressor PPM binário, ou seja, a fonte de informação contém símbolos são binários (A = {0, 1}).
+O trabalho consiste na implementação de um compressor-descompressor PPM binário, ou seja, a fonte de informação contém símbolos binários (A = {0, 1}).
 
 **Para compilar os arquivos** basta utilizar o Makefile ou simplesmente compilar utilizado seu compilador C++ padrão.
 
