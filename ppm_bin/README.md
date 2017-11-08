@@ -16,6 +16,6 @@ O trabalho consiste na implementação de um compressor-descompressor PPM binár
 
 > ./exe arquivo_comprimido arquivo_descomprimido
 
-**The arithmetic coder used was developed by: Eric Bodden, Malte Clasen, Joachim Kneis**
-Fonte: http://www.bodden.de/
+**The arithmetic coder used was developed by: Eric Bodden, Malte Clasen, Joachim Kneis**  
+Fonte: http://www.bodden.de/  
        https://archive.is/VWuD3
